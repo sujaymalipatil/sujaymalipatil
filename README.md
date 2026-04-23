@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- OPTIONAL: Replace with a header from https://leviarista.github.io/github-profile-header-generator/ -->
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sujay+Malipatil+%F0%9F%91%8B;AI+%26+Backend+Developer;LLM+Integration+%7C+Flask+%7C+FastAPI;Published+Researcher+%7C+Award+Winner" alt="Typing SVG" />
   </h1>
@@ -26,13 +25,6 @@ Backend-focused AI developer building real-world applications with Python, Flask
 - 📍 Kalaburagi, Karnataka, India
 
 ---
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sujaymalipatil&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
 
 ## 🛠 Tech Stack
 
@@ -85,6 +77,14 @@ Backend-focused AI developer building real-world applications with Python, Flask
 
 ---
 
+## ⚡ Skill Icons
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,mysql,supabase,aws,github,vscode,pytorch&theme=dark&perline=5" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌾 [AgriSens — AI Crop Yield Prediction](https://github.com/sujaymalipatil/AgriSens)
@@ -98,7 +98,7 @@ Hybrid deep learning model combining **CNN + Random Forest** for agricultural cr
 
 ---
 
-### 🛍️ AI-Powered Product Recommendation System *(Internship @ Genesis Training)*
+### 🛍️ AI-Powered Product Recommendation System *(Internship @ Genplus Training)*
 `Python` · `Flask` · `FastAPI` · `Supabase` · `OpenAI API` · `Groq`
 
 Enterprise-grade AI recommendation backend built in an 11-member Agile team.
@@ -125,6 +125,29 @@ Real-time voice-activated assistant with end-to-end speech recognition and text-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&theme=tokyo-night&hide_border=true&area=true&custom_title=Sujay's%20Contribution%20Graph" width="100%"/>
+</p>
+
+---
+
+## 🧠 Dev Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujaymalipatil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujaymalipatil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
