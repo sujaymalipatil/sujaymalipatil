@@ -118,15 +118,20 @@ Real-time voice-activated assistant with end-to-end speech recognition and text-
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
 </p>
-
 ---
 
 ## 📈 Contribution Activity
