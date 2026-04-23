@@ -1,14 +1,17 @@
-<h1 align="center">Sujay Malipatil</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Backend+Developer;Final+Year+CSE+%40+PDA+College;LLM+Integration+%7C+Flask+%7C+FastAPI;Published+Researcher+%7C+Award+Winner" alt="Typing SVG" />
-</p>
+  <!-- OPTIONAL: Replace with a header from https://leviarista.github.io/github-profile-header-generator/ -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sujay+Malipatil+%F0%9F%91%8B;AI+%26+Backend+Developer;LLM+Integration+%7C+Flask+%7C+FastAPI;Published+Researcher+%7C+Award+Winner" alt="Typing SVG" />
+  </h1>
 
-<p align="center">
-  <a href="mailto:sujayvm2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sujay-malipatil-4412a1225"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sujaymalipatil"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+  <p>
+    <a href="mailto:sujayvm2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/sujay-malipatil-4412a1225"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/sujaymalipatil"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
+
+</div>
 
 ---
 
@@ -21,6 +24,14 @@ Backend-focused AI developer building real-world applications with Python, Flask
 - 📄 Published researcher in **IRJAEH (January 2026)** — Hybrid CNN + Random Forest for Crop Yield Prediction
 - 🏆 **Best Paper Presentation Award** at iCREATE 2025 (BITM, Karnataka)
 - 📍 Kalaburagi, Karnataka, India
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujaymalipatil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
 
 ---
 
@@ -118,9 +129,15 @@ Real-time voice-activated assistant with end-to-end speech recognition and text-
 </p>
 
 ---
+
+## 💬 Dev Quote of the Day
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujaymalipatil/sujaymalipatil/output/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+---
+
 ## 🏅 Certifications
 
 | Certification | Issuer | Year |
@@ -150,6 +167,12 @@ Real-time voice-activated assistant with end-to-end speech recognition and text-
 | 📧 Email | sujayvm2003@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/sujay-malipatil-4412a1225](https://linkedin.com/in/sujay-malipatil-4412a1225) |
 | 🐙 GitHub | [github.com/sujaymalipatil](https://github.com/sujaymalipatil) |
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sujaymalipatil/sujaymalipatil/output/github-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
