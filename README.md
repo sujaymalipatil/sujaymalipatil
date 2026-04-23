@@ -150,5 +150,5 @@ Real-time voice-activated assistant with end-to-end speech recognition and text-
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sujaymalipatil&icon=0&color=1" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sujaymalipatil&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
