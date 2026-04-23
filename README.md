@@ -114,7 +114,9 @@ Real-time voice-activated assistant with end-to-end speech recognition and text-
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sujaymalipatil/sujaymalipatil/output/github-snake-dark.svg" alt="Snake animation"/>
+</p>
 ## 🏅 Certifications
 
 | Certification | Issuer | Year |
