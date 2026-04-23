@@ -32,7 +32,7 @@ Backend-focused AI developer building real-world applications with Python, Flask
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=sujaymalipatil&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
----
+
 
 ## 🛠 Tech Stack
 
