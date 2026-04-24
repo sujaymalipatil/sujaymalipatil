@@ -180,9 +180,6 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 ---
 
----
----
-
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Sujay%27s%20Contribution%20Graph&amp;line=00f7ff&amp;point=ffffff&amp;area_color=00f7ff" width="100%" />
