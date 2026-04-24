@@ -168,15 +168,9 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;icon_color=00FF9D&amp;border_color=00FF9D&amp;border_radius=8&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true&amp;rank_icon=github" height="165" />
-&nbsp;&nbsp;
-<div style="display:inline-block; vertical-align:top; text-align:center;">
-
-**🗣️ Languages I Work With**
-
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;icon_color=00FF9D&amp;border_color=00FF9D&amp;border_radius=8&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true&amp;rank_icon=github" height="200" />
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;hide_border=false&amp;border_color=00FF9D&amp;border_radius=8&amp;layout=donut&amp;hide=Jupyter%20Notebook" height="200" />
-
-</div>
 
 </div>
 
@@ -186,6 +180,7 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 </div>
 
+---
 ---
 
 ## 📈 Contribution Activity
