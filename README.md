@@ -242,21 +242,24 @@ current_obsessions = {
 
 </div>
 
----
+## 📡 Daily Terminal Logs
 
-## 😂 Random Dev Joke
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23050908&amp;textColor=%2300F7FF&amp;qColor=%2300FF9D&amp;aColor=%23e0f2fe&amp;borderColor=%2300FF9D&amp;codeColor=%2300FF9D" alt="Dev Joke" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b><code>>_ ./fetch_joke.sh</code></b><br/><br/>
+      <img src="https://readme-jokes.vercel.app/api?bgColor=%23050908&textColor=%2300F7FF&qColor=%2300FF9D&aColor=%23e0f2fe&borderColor=%2300FF9D&codeColor=%2300FF9D" alt="Dev Joke" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b><code>>_ ./fetch_wisdom.sh</code></b><br/><br/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote of the Day" width="100%" />
+    </td>
+  </tr>
+</table>
 
-## 💬 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
-</p>
-
----
+</div>
 
 ## 🤝 Let's Connect
 
