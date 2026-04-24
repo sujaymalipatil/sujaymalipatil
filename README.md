@@ -174,14 +174,7 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 **🗣️ Languages I Work With**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e?style=flat-square&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%23121011?style=flat-square&logo=gnubash&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;hide_border=false&amp;border_color=00FF9D&amp;border_radius=8&amp;layout=donut&amp;hide=Jupyter%20Notebook" height="200" />
 
 </div>
 
