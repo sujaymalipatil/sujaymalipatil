@@ -43,10 +43,9 @@ class SujayMalipatil:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujaymalipatil&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" width="100%" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sujaymalipatil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/sujaymalipatil)
 
 </div>
-
 ---
 
 ## 🛠 Tech Stack
