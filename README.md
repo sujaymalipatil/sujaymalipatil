@@ -246,11 +246,11 @@ current_obsessions = {
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%2300000000&borderColor=%2330363d&qColor=%2358a6ff&aColor=%23c9d1d9&textColor=%23c9d1d9" alt="Dev Joke" />
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&borderColor=%2330363d&qColor=%2358a6ff&aColor=%23c9d1d9&textColor=%23c9d1d9" alt="Dev Joke" />
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000&border_color=30363d" alt="Quote of the Day" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 
 </div>
 
