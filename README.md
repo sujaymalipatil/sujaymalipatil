@@ -189,12 +189,7 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=radical" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&theme=radical" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=radical&utcOffset=5.5" width="49%" />
+<img src="https://metrics.lecoq.io/sujaymalipatil?template=terminal&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" width="100%" alt="Sujay's GitHub Metrics Terminal" />
 
 </div>
 ---
