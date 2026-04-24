@@ -1,9 +1,9 @@
-<!-- HEADER WAVE — fix: use &amp; between query params in HTML img src, and simpler gradient color format -->
+<!-- HEADER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=220&amp;section=header&amp;text=Sujay%20Malipatil&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Backend%20Developer%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+production-ready+AI+applications+%F0%9F%9A%80;Flask+%7C+FastAPI+%7C+LLM+Integration+Specialist;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;Exploring+RAG+Pipelines+%26+Vector+DBs;Open+to+AI%2FML+Internship+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+production-ready+AI+applications+%F0%9F%9A%80;Flask+%7C+FastAPI+%7C+LLM+Integration+Specialist;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;Exploring+RAG+Pipelines+%26+Vector+DBs;Open+to+AI%2FML+Internship+Opportunities!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -45,7 +45,7 @@ class SujayMalipatil:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujaymalipatil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujaymalipatil&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" width="100%" />
 
 </div>
 
@@ -89,7 +89,7 @@ class SujayMalipatil:
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,mysql,supabase,aws,github,vscode,pytorch&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,mysql,supabase,aws,github,vscode,pytorch&amp;theme=dark&amp;perline=5" />
 </p>
 
 ---
@@ -179,15 +179,15 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true&amp;rank_icon=github" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&amp;theme=tokyonight&amp;hide_border=true" width="60%" />
 
 </div>
 
@@ -195,23 +195,23 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&theme=tokyo-night&hide_border=true&area=true&custom_title=Sujay%27s%20Contribution%20Graph&line=00f7ff&point=ffffff&area_color=00f7ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Sujay%27s%20Contribution%20Graph&amp;line=00f7ff&amp;point=ffffff&amp;area_color=00f7ff" width="100%" />
 
 ---
 
 ## 🧠 Dev Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&amp;theme=tokyonight" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujaymalipatil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujaymalipatil&amp;theme=tokyonight" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujaymalipatil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujaymalipatil&amp;theme=tokyonight" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&amp;theme=tokyonight" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&amp;theme=tokyonight&amp;utcOffset=5.5" />
 </p>
 
 ---
@@ -219,13 +219,13 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 ## 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke — refreshes on every visit!" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder" alt="Dev Joke — refreshes on every visit!" />
 </p>
 
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
 </p>
 
 ---
@@ -238,8 +238,8 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 |:---|:---|:---:|
 | ☁️ Oracle Cloud Infrastructure AI Foundations Associate | Oracle University | 2025 |
 | ☁️ AWS Academy Cloud Foundations | Amazon Web Services | 2025 |
-| 🥇 Understanding Incubation & Entrepreneurship — Elite (96%) | NPTEL / IIT via SWAYAM | 2025 |
-| 🔐 Privacy & Security in Online Social Media — Elite | NPTEL / IIT via SWAYAM | 2025 |
+| 🥇 Understanding Incubation and Entrepreneurship — Elite (96%) | NPTEL / IIT via SWAYAM | 2025 |
+| 🔐 Privacy and Security in Online Social Media — Elite | NPTEL / IIT via SWAYAM | 2025 |
 | 💻 Full Stack Development Level 1 (Python) — Grade A | Ethnotech / Skill India / NSDC | 2025 |
 | 🐍 Python Full Course: Beginner to Advanced | GeeksforGeeks | 2024 |
 
@@ -262,7 +262,7 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujaymalipatil/sujaymalipatil/output/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/sujaymalipatil/sujaymalipatil/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <!-- FOOTER WAVE -->
