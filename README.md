@@ -170,7 +170,7 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 <img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&bg_color=30,050908,0b1a16&title_color=00F7FF&text_color=e0f2fe&icon_color=00FF9D&border_color=00FF9D&border_radius=8&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&bg_color=30,050908,0b1a16&title_color=00F7FF&text_color=e0f2fe&hide_border=false&border_color=00FF9D&border_radius=8&layout=compact&hide=jupyter%20notebook" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&bg_color=30,050908,0b1a16&title_color=00F7FF&text_color=e0f2fe&hide_border=false&border_color=00FF9D&border_radius=8&layout=compact" height="165" />
 
 </div>
 
