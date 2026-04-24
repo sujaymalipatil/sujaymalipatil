@@ -1,9 +1,9 @@
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f7ff,100:0077b5&amp;height=220&amp;section=header&amp;text=Sujay%20Malipatil&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20and%20Backend%20Developer%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0077b5&height=220&section=header&text=Sujay%20Malipatil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Backend%20Developer%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&descAlignY=58&descSize=17&animation=twinkling" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+production-ready+AI+applications+%F0%9F%9A%80;Flask+%7C+FastAPI+%7C+LLM+Integration+Specialist;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;Exploring+RAG+Pipelines+and+Vector+DBs;Open+to+AI%2FML+Internship+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+production-ready+AI+applications+%F0%9F%9A%80;Flask+%7C+FastAPI+%7C+LLM+Integration+Specialist;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;Exploring+RAG+Pipelines+and+Vector+DBs;Open+to+AI%2FML+Internship+Opportunities!" alt="Typing SVG" />
 
 <br/>
 
@@ -79,7 +79,7 @@ class SujayMalipatil:
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,mysql,supabase,aws,github,vscode,pytorch&amp;theme=dark&amp;perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,mysql,supabase,aws,github,vscode,pytorch&theme=dark&perline=5" />
 </p>
 
 ---
@@ -193,13 +193,13 @@ Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;icon_color=00FF9D&amp;border_color=00FF9D&amp;border_radius=8&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true&amp;rank_icon=github" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&show_icons=true&theme=default&include_all_commits=true&count_private=false&border_radius=8" height="200" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&amp;background=050908&amp;stroke=00FF9D&amp;ring=00F7FF&amp;fire=00FF9D&amp;currStreakNum=e0f2fe&amp;sideNums=e0f2fe&amp;currStreakLabel=00F7FF&amp;sideLabels=00F7FF&amp;dates=e0f2fe&amp;hide_border=false&amp;border=00FF9D&amp;borderRadius=8" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&theme=default&border_radius=8" width="60%" />
 
 </div>
 
@@ -207,7 +207,7 @@ Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with s
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&amp;bg_color=050908&amp;color=00F7FF&amp;line=00FF9D&amp;point=ffffff&amp;area=true&amp;area_color=00FF9D&amp;hide_border=true&amp;custom_title=Sujay%27s%20Contribution%20Graph&amp;radius=6" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&theme=github-compact&hide_border=true&custom_title=Sujay%27s%20Contribution%20Graph&radius=6" width="100%" />
 
 ---
 
@@ -239,22 +239,20 @@ current_obsessions = {
 | 🔐 Privacy and Security in Online Social Media — Elite | NPTEL / IIT via SWAYAM | 2025 |
 | 💻 Full Stack Development Level 1 (Python) — Grade A | Ethnotech / Skill India / NSDC | 2025 |
 | 🐍 Python Full Course: Beginner to Advanced | GeeksforGeeks | 2024 |
----
 
-## 😂 Random Dev Joke
+</div>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder" alt="Dev Joke — refreshes on every visit!" />
-</p>
+## 📡 Daily Terminal Logs
 
-## 💬 Dev Quote of the Day
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
-</p>
+<img src="https://readme-jokes.vercel.app/api?theme=transparent" alt="Dev Joke" />
 
----
+<br><br>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote of the Day" />
+
+</div>
 
 ## 🤝 Let's Connect
 
@@ -275,4 +273,4 @@ current_obsessions = {
 </p>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0077b5,100:00f7ff&amp;height=130&amp;section=footer&amp;animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b5,100:00f7ff&height=130&section=footer&animation=twinkling" />
