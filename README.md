@@ -241,18 +241,22 @@ current_obsessions = {
 | 🐍 Python Full Course: Beginner to Advanced | GeeksforGeeks | 2024 |
 
 </div>
+---
 
-## 📡 Daily Terminal Logs
+## 😂 Random Dev Joke
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder" alt="Dev Joke — refreshes on every visit!" />
+</p>
 
-<img src="https://readme-jokes.vercel.app/api?theme=transparent" alt="Dev Joke" />
+## 💬 Dev Quote of the Day
 
-<br><br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote of the Day" />
+---
 
-</div>
 
 ## 🤝 Let's Connect
 
