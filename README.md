@@ -182,7 +182,8 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;border_color=00FF9D&amp;border_radius=8&amp;layout=compact" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&amp;bg_color=050908&amp;color=00F7FF&amp;line=00FF9D&amp;point=ffffff&amp;area=true&amp;area_color=00FF9D&amp;hide_border=true&amp;custom_title=Sujay%27s%20Contribution%20Graph&amp;radius=6" width="100%" />
+
 ---
 
 ## 🧠 Dev Summary
