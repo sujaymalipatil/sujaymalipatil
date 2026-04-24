@@ -169,8 +169,6 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;icon_color=00FF9D&amp;border_color=00FF9D&amp;border_radius=8&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true&amp;rank_icon=github" height="200" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;hide_border=false&amp;border_color=00FF9D&amp;border_radius=8&amp;layout=compact&amp;langs_count=10&amp;hide=Jupyter%20Notebook" height="200" />
 
 </div>
 
@@ -179,6 +177,8 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&amp;background=050908&amp;stroke=00FF9D&amp;ring=00F7FF&amp;fire=00FF9D&amp;currStreakNum=e0f2fe&amp;sideNums=e0f2fe&amp;currStreakLabel=00F7FF&amp;sideLabels=00F7FF&amp;dates=e0f2fe&amp;hide_border=false&amp;border=00FF9D&amp;borderRadius=8" width="60%" />
 
 </div>
+
+---
 
 ---
 ---
