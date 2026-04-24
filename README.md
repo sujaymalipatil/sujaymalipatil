@@ -93,7 +93,7 @@ class SujayMalipatil:
 ### 🌾 AgriSens — AI Crop Yield Prediction
 [![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/AgriSens)
 [![DOI](https://img.shields.io/badge/DOI-IRJAEH_2026-blue?style=for-the-badge)](https://doi.org/10.47392/IRJAEH.2026.0038)
-[![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://crop-recomm.streamlit.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agrisens-ai.streamlit.app/)
 
 `Python` · `TensorFlow` · `Keras` · `Streamlit` · `Groq`
 
