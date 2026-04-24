@@ -187,29 +187,28 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 ---
 ## 🧠 Dev Summary (Simulated Neural Architecture Overview)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sujaymalipatil/sujaymalipatil/output/github-snake.svg" alt="Activity Simulation" width="100%" />
-</p>
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujaymalipatil&amp;theme=transparent" width="100%" alt="Language Repository Network Graph" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF9D&background=050908&center=true&vCenter=true&width=800&height=50&lines=%3E_system_diagnostics+--run;%3E+Loading+Neural+Architecture...+%5BOK%5D;%3E+Analyzing+repository+commit+clusters...+%5BOK%5D;%3E+Calculating+backend+efficiency...+%5BOK%5D;%3E+SYSTEM+STATUS%3A+OPTIMAL.+Rendering+dashboard..." alt="System Boot Sequence" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujaymalipatil&theme=transparent" width="100%" alt="Language Repository Network Graph" />
 
 <br/>
 
 <table width="100%">
-  <tr>
-    <td width="55%" align="left">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=radical&bg_color=00000000&border_color=00FF9D&border_radius=0&hide_border=false" width="100%" alt="Profile Terminal Details" />
-    </td>
-    <td width="45%" align="right">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=transparent&utcOffset=5.5" width="100%" alt="Developer Productive Time Arc" />
-    </td>
-  </tr>
+  <tr>
+    <td width="55%" align="left">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=radical&bg_color=00000000&border_color=00FF9D&border_radius=0&hide_border=false" width="100%" alt="Profile Terminal Details" />
+    </td>
+    <td width="45%" align="right">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=transparent&utcOffset=5.5" width="100%" alt="Developer Productive Time Arc" />
+    </td>
+  </tr>
 </table>
 
 </div>
-
 ---
 
 ## 😂 Random Dev Joke
