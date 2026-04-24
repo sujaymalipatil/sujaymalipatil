@@ -193,13 +193,13 @@ Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&show_icons=true&theme=default&include_all_commits=true&count_private=false&border_radius=8" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&border_radius=8" height="200" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&theme=default&border_radius=8" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&theme=github-dark&border_radius=8" width="60%" />
 
 </div>
 
@@ -246,11 +246,11 @@ current_obsessions = {
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=transparent" alt="Dev Joke" />
+<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Dev Joke" />
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote of the Day" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
 
 </div>
 
