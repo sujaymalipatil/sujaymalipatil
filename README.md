@@ -185,30 +185,31 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&amp;bg_color=050908&amp;color=00F7FF&amp;line=00FF9D&amp;point=ffffff&amp;area=true&amp;area_color=00FF9D&amp;hide_border=true&amp;custom_title=Sujay%27s%20Contribution%20Graph&amp;radius=6" width="100%" />
 
 ---
-## 🧠 Dev Summary
+## 🧠 Dev Summary (Simulated Neural Architecture Overview)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sujaymalipatil/sujaymalipatil/output/github-snake.svg" alt="Activity Simulation" width="100%" />
+</p>
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujaymalipatil&amp;theme=transparent" width="100%" alt="Language Repository Network Graph" />
+
+<br/>
+
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=transparent" width="100%" alt="Profile Details" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&theme=transparent" width="100%" alt="Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujaymalipatil&theme=transparent" width="100%" alt="Commits per Language" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=transparent&utcOffset=5.5" width="100%" alt="Productive Time" />
-    </td>
-  </tr>
+  <tr>
+    <td width="55%" align="left">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=radical&bg_color=00000000&border_color=00FF9D&border_radius=0&hide_border=false" width="100%" alt="Profile Terminal Details" />
+    </td>
+    <td width="45%" align="right">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=transparent&utcOffset=5.5" width="100%" alt="Developer Productive Time Arc" />
+    </td>
+  </tr>
 </table>
 
 </div>
+
 ---
 
 ## 😂 Random Dev Joke
