@@ -1,10 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=220&amp;section=header&amp;text=Sujay%20Malipatil&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20and%20Backend%20Developer%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling" />
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f7ff,100:0077b5&amp;height=220&amp;section=header&amp;text=Sujay%20Malipatil&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20and%20Backend%20Developer%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling" />
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+production-ready+AI+applications+%F0%9F%9A%80;Flask+%7C+FastAPI+%7C+LLM+Integration+Specialist;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;Exploring+RAG+Pipelines+and+Vector+DBs;Open+to+AI%2FML+Internship+Opportunities!" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujayvm2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-malipatil-4412a1225)
@@ -38,7 +39,7 @@ class SujayMalipatil:
         ]
 ```
 
-
+---
 
 ## 🛠 Tech Stack
 
@@ -85,8 +86,6 @@ class SujayMalipatil:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -94,9 +93,9 @@ class SujayMalipatil:
 ### 🌾 AgriSens — AI Crop Yield Prediction
 [![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/AgriSens)
 [![DOI](https://img.shields.io/badge/DOI-IRJAEH_2026-blue?style=for-the-badge)](https://doi.org/10.47392/IRJAEH.2026.0038)
-[![Status](https://img.shields.io/badge/Status-Published-success?style=flat-square)](https://doi.org/10.47392/IRJAEH.2026.0038)
+[![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://crop-recomm.streamlit.app/)
 
-`Python` · `TensorFlow` · `Keras` · `Streamlit`
+`Python` · `TensorFlow` · `Keras` · `Streamlit` · `Groq`
 
 Hybrid **CNN + Random Forest** model for agricultural crop yield prediction.
 
@@ -110,13 +109,14 @@ Hybrid **CNN + Random Forest** model for agricultural crop yield prediction.
 - 🌍 Multi-source: weather, soil, geography data
 - 🖥️ Live Streamlit interface + Groq AI insights
 - 📄 Published: **IRJAEH Vol. 04, Issue 01 (Jan 2026)**
+- 🏆 **Best Paper @ iCREATE 2025**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛍️ AI Product Recommendation System
-[![Status](https://img.shields.io/badge/Internship-Genplus-orange?style=flat-square)]()
-[![Team](https://img.shields.io/badge/Team-11_Members-blue?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Internship-Genplus-orange?style=for-the-badge)]()
+[![Team](https://img.shields.io/badge/Team-11_Members-blue?style=for-the-badge)]()
 
 `Python` · `Flask` · `FastAPI` · `Supabase` · `OpenAI`
 
@@ -138,18 +138,19 @@ Enterprise-grade AI recommendation backend built in an Agile 11-member team.
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Voice Assistant
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)]()
+### 🎙️ Nova — Voice Assistant
+[![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/Voice-assistant)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)]()
 
-`Python` · `speech_recognition` · `pyttsx3` · `pyaudio`
+`Python` · `Groq Llama 3.1` · `Tkinter` · `pyttsx3`
 
-Real-time voice-activated assistant with end-to-end speech recognition and TTS response pipeline.
+Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with system automation — brightness, volume, battery — all hands-free.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Currently Building
-[![Status](https://img.shields.io/badge/Status-WIP-yellow?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-WIP-yellow?style=for-the-badge)]()
 
 - 🔍 Advanced **RAG pipelines** + vector DB integration
 - 🏗️ **LLM architecture** for scalable production systems
@@ -160,7 +161,31 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 </tr>
 </table>
 
-</div>
+---
+
+## 🗺️ My Dev Journey
+
+```text
+2022  ┌─ Started B.E. CSE @ PDA College of Engineering
+      │
+2023  ├─ Learned Python, C, Java, SQL, HTML/CSS
+      │  └─ Built first ML models with scikit-learn
+      │
+2024  ├─ Dived into Deep Learning — TensorFlow, Keras
+      │  ├─ Built Voice Assistant with Groq Llama 3.1
+      │  └─ Started exploring Flask & FastAPI backends
+      │
+2025  ├─ 🌾 Built AgriSens — Hybrid CNN + Random Forest (94.6% acc)
+      │  ├─ 🏆 Best Paper Award @ iCREATE 2025 (BITM, Karnataka)
+      │  ├─ ☁️  AWS Academy Cloud Foundations certified
+      │  └─ ☁️  Oracle Cloud Infrastructure AI Foundations certified
+      │
+2026  ├─ 📄 Published in IRJAEH Vol. 04, Issue 01 (Jan 2026)
+      │  ├─ 💼 Backend Internship @ Genplus — AI Recommendation System
+      │  └─ 🎯 Seeking AI/ML roles in Bengaluru / Hyderabad / Pune
+      │
+ now  └─ Exploring RAG Pipelines, Vector DBs, FastAPI + Docker 🚀
+```
 
 ---
 
@@ -185,45 +210,28 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&amp;bg_color=050908&amp;color=00F7FF&amp;line=00FF9D&amp;point=ffffff&amp;area=true&amp;area_color=00FF9D&amp;hide_border=true&amp;custom_title=Sujay%27s%20Contribution%20Graph&amp;radius=6" width="100%" />
 
 ---
-## 🧠 Dev Summary (Simulated Neural Architecture Overview)
+
+## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF9D&background=050908&center=true&vCenter=true&width=800&height=50&lines=%3E_system_diagnostics+--run;%3E+Loading+Neural+Architecture...+%5BOK%5D;%3E+Analyzing+repository+commit+clusters...+%5BOK%5D;%3E+Calculating+backend+efficiency...+%5BOK%5D;%3E+SYSTEM+STATUS%3A+OPTIMAL.+Rendering+dashboard..." alt="System Boot Sequence" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujaymalipatil&theme=transparent" width="100%" alt="Language Repository Network Graph" />
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="55%" align="left">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=radical&bg_color=00000000&border_color=00FF9D&border_radius=0&hide_border=false" width="100%" alt="Profile Terminal Details" />
-    </td>
-    <td width="45%" align="right">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=transparent&utcOffset=5.5" width="100%" alt="Developer Productive Time Arc" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=sujaymalipatil&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" width="100%" />
 </div>
----
-
-## 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23050908&amp;textColor=%2300F7FF&amp;qColor=%2300FF9D&amp;aColor=%23e0f2fe&amp;borderColor=%2300FF9D&amp;codeColor=%2300FF9D" alt="Dev Joke" />
-</p>
 
 ---
 
-## 💬 Dev Quote of the Day
+## 🧠 What I'm Thinking About
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
-</p>
+> *"The best model is the one that ships."*
+
+```python
+current_obsessions = {
+    "🔍 RAG":         "How to make LLMs actually remember things",
+    "⚡ Inference":   "Why Groq is faster than my caffeine intake",
+    "🌾 AgriSens":    "Can AI actually help Indian farmers?",
+    "🏗️ Backend":     "FastAPI + Docker = happiness",
+    "📄 Research":    "Turning experiments into publications",
+}
+```
 
 ---
 
@@ -241,6 +249,20 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 | 🐍 Python Full Course: Beginner to Advanced | GeeksforGeeks | 2024 |
 
 </div>
+
+---
+
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23050908&amp;textColor=%2300F7FF&amp;qColor=%2300FF9D&amp;aColor=%23e0f2fe&amp;borderColor=%2300FF9D&amp;codeColor=%2300FF9D" alt="Dev Joke" />
+</p>
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
+</p>
 
 ---
 
@@ -263,4 +285,4 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 </p>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=130&amp;section=footer&amp;animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0077b5,100:00f7ff&amp;height=130&amp;section=footer&amp;animation=twinkling" />
