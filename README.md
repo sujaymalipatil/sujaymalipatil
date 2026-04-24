@@ -211,14 +211,6 @@ Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with s
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujaymalipatil&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" width="100%" />
-</div>
-
----
-
 ## 🧠 What I'm Thinking About
 
 > *"The best model is the one that ships."*
