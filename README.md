@@ -241,23 +241,13 @@ current_obsessions = {
 | 🐍 Python Full Course: Beginner to Advanced | GeeksforGeeks | 2024 |
 
 </div>
-
 ## 📡 Daily Terminal Logs
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b><code>>_ ./fetch_joke.sh</code></b><br/><br/>
-      <img src="https://readme-jokes.vercel.app/api?bgColor=%23050908&textColor=%2300F7FF&qColor=%2300FF9D&aColor=%23e0f2fe&borderColor=%2300FF9D&codeColor=%2300FF9D" alt="Dev Joke" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b><code>>_ ./fetch_wisdom.sh</code></b><br/><br/>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote of the Day" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23050908&textColor=%2300F7FF&qColor=%2300FF9D&aColor=%23e0f2fe&borderColor=%2300FF9D&codeColor=%2300FF9D" alt="Dev Joke" height="150" />
+&nbsp; &nbsp;
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=050908&text_color=00F7FF&author_color=00FF9D&border_color=00FF9D" alt="Quote of the Day" height="150" />
 
 </div>
 
