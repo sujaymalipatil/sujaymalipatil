@@ -19,23 +19,23 @@
 
 ```python
 class SujayMalipatil:
-    def __init__(self):
-        self.name       = "Sujay Malipatil"
-        self.role       = "AI & Backend Developer"
-        self.education  = "B.E. CSE @ PDA College of Engineering (2022–2026) | CGPA: 8.08"
-        self.location   = "Kalaburagi → Bengaluru, Karnataka 📍"
-        self.stack      = ["Python", "Flask", "FastAPI", "LLMs", "TensorFlow"]
-        self.interests  = ["RAG Pipelines", "LLM Architecture", "ML Deployment"]
-        self.fun_fact   = "I turn caffeine into production-ready AI ☕"
+    def __init__(self):
+        self.name       = "Sujay Malipatil"
+        self.role       = "AI & Backend Developer"
+        self.education  = "B.E. CSE @ PDA College of Engineering (2022–2026) | CGPA: 8.08"
+        self.location   = "Kalaburagi → Bengaluru, Karnataka 📍"
+        self.stack      = ["Python", "Flask", "FastAPI", "LLMs", "TensorFlow"]
+        self.interests  = ["RAG Pipelines", "LLM Architecture", "ML Deployment"]
+        self.fun_fact   = "I turn caffeine into production-ready AI ☕"
 
-    def current_focus(self):
-        return [
-            "💼 Interning @ Genplus — AI-Powered Recommendation System",
-            "📄 Published in IRJAEH Vol. 04 (Jan 2026)",
-            "🏆 Best Paper Award @ iCREATE 2025 (BITM, Karnataka)",
-            "🌱 Exploring: Advanced RAG, FastAPI + Docker, Vector DBs",
-            "🎯 Seeking AI/ML Internship opportunities",
-        ]
+    def current_focus(self):
+        return [
+            "💼 Interning @ Genplus — AI-Powered Recommendation System",
+            "📄 Published in IRJAEH Vol. 04 (Jan 2026)",
+            "🏆 Best Paper Award @ iCREATE 2025 (BITM, Karnataka)",
+            "🌱 Exploring: Advanced RAG, FastAPI + Docker, Vector DBs",
+            "🎯 Seeking AI/ML Internship opportunities",
+        ]
 ```
 
 
@@ -168,17 +168,31 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&bg_color=30,050908,0b1a16&title_color=00F7FF&text_color=e0f2fe&icon_color=00FF9D&border_color=00FF9D&border_radius=8&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&bg_color=30,050908,0b1a16&title_color=00F7FF&text_color=e0f2fe&hide_border=false&border_color=00FF9D&border_radius=8&layout=compact" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;bg_color=30,050908,0b1a16&amp;title_color=00F7FF&amp;text_color=e0f2fe&amp;icon_color=00FF9D&amp;border_color=00FF9D&amp;border_radius=8&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true&amp;rank_icon=github" height="165" />
+&nbsp;&nbsp;
+<div style="display:inline-block; vertical-align:top; text-align:center;">
+
+**🗣️ Languages I Work With**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e?style=flat-square&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=flat-square&logo=gnubash&logoColor=white)
+
+</div>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&background=050908&stroke=00FF9D&ring=00F7FF&fire=00FF9D&currStreakNum=e0f2fe&sideNums=e0f2fe&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=e0f2fe&hide_border=false&border=00FF9D&borderRadius=8" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&amp;background=050908&amp;stroke=00FF9D&amp;ring=00F7FF&amp;fire=00FF9D&amp;currStreakNum=e0f2fe&amp;sideNums=e0f2fe&amp;currStreakLabel=00F7FF&amp;sideLabels=00F7FF&amp;dates=e0f2fe&amp;hide_border=false&amp;border=00FF9D&amp;borderRadius=8" width="60%" />
 
 </div>
+
 ---
 
 ## 📈 Contribution Activity
