@@ -189,7 +189,24 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/sujaymalipatil?template=terminal&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" width="100%" alt="Sujay's GitHub Metrics Terminal" />
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=transparent" width="100%" alt="Profile Details" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&theme=transparent" width="100%" alt="Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujaymalipatil&theme=transparent" width="100%" alt="Commits per Language" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=transparent&utcOffset=5.5" width="100%" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 </div>
 ---
