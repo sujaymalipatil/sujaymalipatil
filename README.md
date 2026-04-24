@@ -191,11 +191,8 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&amp;theme=tokyonight" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujaymalipatil&amp;theme=tokyonight" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujaymalipatil&amp;theme=tokyonight" />
-  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&amp;theme=tokyonight" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&amp;theme=tokyonight&amp;utcOffset=5.5" />
@@ -203,11 +200,21 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujaymalipatil&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" width="100%" />
+</div>
+
+---
+
 ## 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder" alt="Dev Joke — refreshes on every visit!" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23050908&amp;textColor=%2300F7FF&amp;qColor=%2300FF9D&amp;aColor=%23e0f2fe&amp;borderColor=%2300FF9D&amp;codeColor=%2300FF9D" alt="Dev Joke" />
 </p>
+
+---
 
 ## 💬 Dev Quote of the Day
 
