@@ -185,18 +185,18 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&amp;bg_color=050908&amp;color=00F7FF&amp;line=00FF9D&amp;point=ffffff&amp;area=true&amp;area_color=00FF9D&amp;hide_border=true&amp;custom_title=Sujay%27s%20Contribution%20Graph&amp;radius=6" width="100%" />
 
 ---
-
 ## 🧠 Dev Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&amp;theme=tokyonight" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&amp;theme=tokyonight" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&amp;theme=tokyonight&amp;utcOffset=5.5" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaymalipatil&theme=radical" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujaymalipatil&theme=radical" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&theme=radical&utcOffset=5.5" width="49%" />
+
+</div>
 ---
 
 ## 😂 Random Dev Joke
