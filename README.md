@@ -1,9 +1,8 @@
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=220&amp;section=header&amp;text=Sujay%20Malipatil&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Backend%20Developer%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=220&amp;section=header&amp;text=Sujay%20Malipatil&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20and%20Backend%20Developer%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+production-ready+AI+applications+%F0%9F%9A%80;Flask+%7C+FastAPI+%7C+LLM+Integration+Specialist;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;Exploring+RAG+Pipelines+%26+Vector+DBs;Open+to+AI%2FML+Internship+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+production-ready+AI+applications+%F0%9F%9A%80;Flask+%7C+FastAPI+%7C+LLM+Integration+Specialist;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;Exploring+RAG+Pipelines+and+Vector+DBs;Open+to+AI%2FML+Internship+Opportunities!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -20,23 +19,23 @@
 
 ```python
 class SujayMalipatil:
-    def __init__(self):
-        self.name       = "Sujay Malipatil"
-        self.role       = "AI & Backend Developer"
-        self.education  = "B.E. CSE @ PDA College of Engineering (2022–2026) | CGPA: 8.08"
-        self.location   = "Kalaburagi → Bengaluru, Karnataka 📍"
-        self.stack      = ["Python", "Flask", "FastAPI", "LLMs", "TensorFlow"]
-        self.interests  = ["RAG Pipelines", "LLM Architecture", "ML Deployment"]
-        self.fun_fact   = "I turn caffeine into production-ready AI ☕"
+    def __init__(self):
+        self.name       = "Sujay Malipatil"
+        self.role       = "AI & Backend Developer"
+        self.education  = "B.E. CSE @ PDA College of Engineering (2022–2026) | CGPA: 8.08"
+        self.location   = "Kalaburagi → Bengaluru, Karnataka 📍"
+        self.stack      = ["Python", "Flask", "FastAPI", "LLMs", "TensorFlow"]
+        self.interests  = ["RAG Pipelines", "LLM Architecture", "ML Deployment"]
+        self.fun_fact   = "I turn caffeine into production-ready AI ☕"
 
-    def current_focus(self):
-        return [
-            "💼 Interning @ Genplus — AI-Powered Recommendation System",
-            "📄 Published in IRJAEH Vol. 04 (Jan 2026)",
-            "🏆 Best Paper Award @ iCREATE 2025 (BITM, Karnataka)",
-            "🌱 Exploring: Advanced RAG, FastAPI + Docker, Vector DBs",
-            "🎯 Seeking AI/ML Internship opportunities",
-        ]
+    def current_focus(self):
+        return [
+            "💼 Interning @ Genplus — AI-Powered Recommendation System",
+            "📄 Published in IRJAEH Vol. 04 (Jan 2026)",
+            "🏆 Best Paper Award @ iCREATE 2025 (BITM, Karnataka)",
+            "🌱 Exploring: Advanced RAG, FastAPI + Docker, Vector DBs",
+            "🎯 Seeking AI/ML Internship opportunities",
+        ]
 ```
 
 ---
