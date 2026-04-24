@@ -197,15 +197,6 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujaymalipatil&amp;theme=tokyonight&amp;utcOffset=5.5" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujaymalipatil&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" width="100%" />
-</div>
-
 ---
 
 ## 😂 Random Dev Joke
