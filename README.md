@@ -168,15 +168,15 @@ Real-time voice-activated assistant with end-to-end speech recognition and TTS r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true&amp;rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&bg_color=30,050908,0b1a16&title_color=00F7FF&text_color=e0f2fe&icon_color=00FF9D&border_color=00FF9D&border_radius=8&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&bg_color=30,050908,0b1a16&title_color=00F7FF&text_color=e0f2fe&hide_border=false&border_color=00FF9D&border_radius=8&layout=compact" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&amp;theme=tokyonight&amp;hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&background=050908&stroke=00FF9D&ring=00F7FF&fire=00FF9D&currStreakNum=e0f2fe&sideNums=e0f2fe&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=e0f2fe&hide_border=false&border=00FF9D&borderRadius=8" width="60%" />
 
 </div>
 
