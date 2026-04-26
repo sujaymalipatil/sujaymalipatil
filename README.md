@@ -10,6 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujayvm2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-malipatil-4412a1225)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil)
+[![AgriSens Demo](https://img.shields.io/badge/AgriSens_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agrisens-ai.streamlit.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=sujaymalipatil&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/sujaymalipatil)
 
 </div>
