@@ -40,10 +40,6 @@ class SujayMalipatil:
         ]
 ```
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -198,7 +194,7 @@ Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=8&include_all_commits=true&count_private=false" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=8" height="200" />
 
 </div>
 
