@@ -28,7 +28,7 @@ class SujayMalipatil:
         self.location   = "Kalaburagi → Bengaluru, Karnataka 📍"
         self.stack      = ["Python", "Flask", "FastAPI", "LLMs", "TensorFlow"]
         self.interests  = ["RAG Pipelines", "LLM Architecture", "ML Deployment"]
-        self.fun_fact   = "I turn caffeine into production-ready AI ☕"
+        self.fun_fact   = "→ today's thought 👇"
 
     def current_focus(self):
         return [
@@ -39,6 +39,10 @@ class SujayMalipatil:
             "🎯 Seeking AI/ML Internship opportunities",
         ]
 ```
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
@@ -242,22 +246,22 @@ current_obsessions = {
 | 🐍 Python Full Course: Beginner to Advanced | GeeksforGeeks | 2024 |
 
 </div>
+
 ---
 
 ## 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder" alt="Dev Joke — refreshes on every visit!" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke — refreshes on every visit!" />
 </p>
 
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
-
 
 ## 🤝 Let's Connect
 
@@ -275,6 +279,10 @@ current_obsessions = {
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sujaymalipatil/sujaymalipatil/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ in Bengaluru, Karnataka 🇮🇳</sub>
 </p>
 
 <!-- FOOTER WAVE -->
