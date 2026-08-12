@@ -81,6 +81,7 @@ Final-year CSE student specializing in **Python, backend APIs, and AI**. Built m
 ### 🛍️ RecommendMe — AI Product Recommendation
 [![API](https://img.shields.io/badge/API_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/recommendme-api)
 [![App](https://img.shields.io/badge/App_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/recommendme-app)
+[![CI](https://img.shields.io/github/actions/workflow/status/sujaymalipatil/recommendme-api/ci.yml?label=API%20CI&style=for-the-badge)](https://github.com/sujaymalipatil/recommendme-api/actions)
 [![Internship](https://img.shields.io/badge/Internship-Genplus-ff2d4b?style=for-the-badge)](https://sujaymalipatil.github.io/portfolio)
 
 `FastAPI` · `React` · `PostgreSQL` · `Redis` · `JWT` · `Docker`
@@ -103,6 +104,7 @@ Conversational product recommender. Multi-LLM router with automatic fallback, va
 
 ### 🌾 AgriSens — AI Crop Intelligence
 [![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/AgriSens)
+[![CI](https://img.shields.io/github/actions/workflow/status/sujaymalipatil/AgriSens/ci.yml?label=CI&style=for-the-badge)](https://github.com/sujaymalipatil/AgriSens/actions)
 [![DOI](https://img.shields.io/badge/DOI-IRJAEH_2026-8b0018?style=for-the-badge)](https://doi.org/10.47392/IRJAEH.2026.0038)
 [![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agrisens-ai.streamlit.app/)
 
@@ -255,18 +257,32 @@ International Conference on Research, Engineering and Advanced Technologies in C
 
 ---
 
+## 📌 Featured Repos
+
+<div align="center">
+
+[![recommendme-api](./profile/pin-recommendme.svg)](https://github.com/sujaymalipatil/recommendme-api)
+[![recommendme-app](./profile/pin-recommendme-app.svg)](https://github.com/sujaymalipatil/recommendme-app)
+[![AgriSens](./profile/pin-agrisens.svg)](https://github.com/sujaymalipatil/AgriSens)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=ff2d4b&amp;text_color=c9d1d9&amp;icon_color=ff2d4b&amp;border_color=30363d&amp;border_radius=8" height="165" alt="GitHub stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujaymalipatil&amp;layout=compact&amp;bg_color=00000000&amp;title_color=ff2d4b&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=8" height="165" alt="Top languages" />
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
 
-</div>
+<br/>
 
-<div align="center">
+![GitHub streak](./profile/streak.svg)
 
-<img src="https://streak-stats.demolab.com/?user=sujaymalipatil&amp;background=00000000&amp;border=30363d&amp;ring=ff2d4b&amp;fire=ff2d4b&amp;currStreakLabel=ff2d4b&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;stroke=30363d&amp;border_radius=8" width="60%" alt="GitHub streak" />
+<br/>
+
+<sub>Cards generated in-repo by GitHub Actions (daily) — no third-party host to die</sub>
 
 </div>
 
