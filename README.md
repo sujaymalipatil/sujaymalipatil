@@ -1,17 +1,25 @@
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0077b5&height=220&section=header&text=Sujay%20Malipatil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Backend%20Developer%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&descAlignY=58&descSize=17&animation=twinkling" />
+<!-- HEADER WAVE — black + red to match space-portfolio -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d4b,100:8b0018&height=220&section=header&text=Sujay%20Malipatil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20AI%20Developer%20%7C%20FastAPI%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&descAlignY=58&descSize=17&animation=twinkling" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+production-ready+AI+applications+%F0%9F%9A%80;Flask+%7C+FastAPI+%7C+LLM+Integration+Specialist;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;Exploring+RAG+Pipelines+and+Vector+DBs;Open+to+AI%2FML+Internship+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2D4B&center=true&vCenter=true&width=780&lines=Building+production-ready+AI+backends+%F0%9F%9A%80;FastAPI+%7C+Flask+%7C+Multi-LLM+Integration;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;RecommendMe+%C2%B7+AgriSens+%C2%B7+Nova;Open+to+Backend+%2F+AI+roles" alt="Typing SVG" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff2d4b?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://sujaymalipatil.github.io/portfolio)
+[![Resume](https://img.shields.io/badge/Resume-8b0018?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sujaymalipatil.github.io/portfolio/resume.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujayvm2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-malipatil-4412a1225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-malipatil-4412a1225)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil)
-[![AgriSens Demo](https://img.shields.io/badge/AgriSens_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agrisens-ai.streamlit.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=sujaymalipatil&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/sujaymalipatil)
+[![AgriSens Demo](https://img.shields.io/badge/AgriSens_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agrisens-ai.streamlit.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=sujaymalipatil&style=for-the-badge&color=ff2d4b&label=PROFILE+VIEWS)](https://github.com/sujaymalipatil)
+
+<br/>
+
+`Intern @ Genplus` · `IRJAEH 2026 paper` · `Best Paper · iCREATE` · `CGPA 8.3` · `Open to Backend / AI roles`
+
+<sub>Available for full-time, internships & contract · Bengaluru / Hyderabad / Pune / Remote</sub>
 
 </div>
 
@@ -23,65 +31,44 @@
 class SujayMalipatil:
     def __init__(self):
         self.name       = "Sujay Malipatil"
-        self.role       = "AI & Backend Developer"
-        self.education  = "B.E. CSE @ PDA College of Engineering (2022–2026) | CGPA: 8.08"
-        self.location   = "Kalaburagi → Bengaluru, Karnataka 📍"
-        self.stack      = ["Python", "Flask", "FastAPI", "LLMs", "TensorFlow"]
+        self.role       = "Backend & AI Developer"
+        self.education  = "B.E. CSE @ P.D.A. College of Engineering (2022–2026 expected) | CGPA: 8.3"
+        self.location   = "Kalaburagi, Karnataka, India 📍"
+        self.stack      = ["Python", "Flask", "FastAPI", "LLMs", "TensorFlow", "Docker"]
         self.interests  = ["RAG Pipelines", "LLM Architecture", "ML Deployment"]
+        self.status     = "Open to Backend / AI roles — full-time, internships & contract"
         self.fun_fact   = "→ today's thought 👇"
 
     def current_focus(self):
         return [
-            "💼 Interning @ Genplus — AI-Powered Recommendation System",
-            "📄 Published in IRJAEH Vol. 04 (Jan 2026)",
-            "🏆 Best Paper Award @ iCREATE 2025 (BITM, Karnataka)",
-            "🌱 Exploring: Advanced RAG, FastAPI + Docker, Vector DBs",
-            "🎯 Seeking AI/ML Internship opportunities",
+            "💼 Backend Developer Intern @ Genplus Training — RecommendMe (Feb–May 2026 · 16 weeks)",
+            "📄 Published in IRJAEH Vol. 04, Issue 01 (Jan 2026) — doi: 10.47392/IRJAEH.2026.0038",
+            "🏆 Best Paper Presentation Award (UG) @ iCREATE 2025 · BITM, Karnataka",
+            "🌱 Exploring: Advanced RAG, Vector DBs, FastAPI + Docker",
+            "🎯 Seeking Backend / AI roles in Bengaluru · Hyderabad · Pune · Remote",
         ]
 ```
 
+Final-year CSE student specializing in **Python, backend APIs, and AI**. Built multi-LLM recommendation systems (OpenAI, Groq, Gemini, Ollama), shipped a published crop-intelligence product, and work in Agile teams with real GitHub PR cycles.
+
+> *Let's build something great together.*
+
 ---
 
-## 🛠 Tech Stack
+## 💼 Experience
 
-<div align="center">
+### Backend Developer Intern — Genplus Training and Consulting Services Pvt Ltd
+**Feb 2026 – May 2026** · 16 weeks · On-site · 11-member Agile team · 2 development cycles
 
-### ⚡ Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+`Flask` · `FastAPI` · `OpenAI` · `Groq` · `Gemini` · `Supabase` · `SOAP` · `GitHub`
 
-### 🔧 Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+- Designed RESTful API endpoints with Flask and FastAPI for product search, user sessions, and AI recommendations
+- Integrated LLM providers (OpenAI, Groq, Gemini) — cut average product browsing time from **~3 hours to minutes**
+- Built a Google Search / SerpAPI scraping pipeline feeding real-time product data into the recommendation engine
+- Connected third-party SOAP APIs and configured Supabase for database management and auth
+- Collaborated via GitHub branching and pull requests across 2 development cycles
 
-### 📊 Data & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 🤖 ML / DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### ☁️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,mysql,supabase,aws,github,vscode,pytorch&theme=dark&perline=5" />
-</p>
+**Shipped as:** [RecommendMe API](https://github.com/sujaymalipatil/recommendme-api) + [RecommendMe App](https://github.com/sujaymalipatil/recommendme-app)
 
 ---
 
@@ -91,48 +78,49 @@ class SujayMalipatil:
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 AgriSens — AI Crop Yield Prediction
+### 🛍️ RecommendMe — AI Product Recommendation
+[![API](https://img.shields.io/badge/API_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/recommendme-api)
+[![App](https://img.shields.io/badge/App_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/recommendme-app)
+[![Internship](https://img.shields.io/badge/Internship-Genplus-ff2d4b?style=for-the-badge)](https://sujaymalipatil.github.io/portfolio)
+
+`FastAPI` · `React` · `PostgreSQL` · `Redis` · `JWT` · `Docker`
+
+Conversational product recommender. Multi-LLM router with automatic fallback, vagueness detection + follow-up questions, live Google Shopping via SerpAPI, JWT + Redis sessions, Docker + GitHub Actions CI/CD.
+
+| Signal | Detail |
+|--------|--------|
+| ⚡ Research time | **~3 hrs → minutes** |
+| 🤖 LLM chain | **Groq → OpenAI → Gemini → Ollama** |
+| 🔐 Auth | **JWT + Redis sessions** |
+| 🚢 Deploy | **Docker + GitHub Actions** |
+
+- 🧩 Vagueness detector → AI follow-up when intent is unclear
+- 🛒 SerpAPI / Google Shopping for real-time product signals
+- 📦 Public split: backend API + production-style React UI
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 AgriSens — AI Crop Intelligence
 [![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/AgriSens)
-[![DOI](https://img.shields.io/badge/DOI-IRJAEH_2026-blue?style=for-the-badge)](https://doi.org/10.47392/IRJAEH.2026.0038)
+[![DOI](https://img.shields.io/badge/DOI-IRJAEH_2026-8b0018?style=for-the-badge)](https://doi.org/10.47392/IRJAEH.2026.0038)
 [![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agrisens-ai.streamlit.app/)
 
-`Python` · `TensorFlow` · `Keras` · `Streamlit` · `Groq`
+`Streamlit` · `scikit-learn` · `TensorFlow` · `Keras` · `Groq`
 
-Hybrid **CNN + Random Forest** model for agricultural crop yield prediction.
+Soil NPK/pH + live weather → Random Forest over **22 crops**, top-5 alternatives, fertilizer advice, soil-health score, Data Explorer. Research backbone: hybrid **CNN + Random Forest**.
 
 | Metric | Value |
 |--------|-------|
 | 🎯 Accuracy | **94.6%** |
 | 📉 RMSE | **0.069** |
 | 📈 R² Score | **0.94** |
-| 🌾 Crops | **22 varieties** |
+| 🧪 Dataset | **2,200+ points · 22 crops** |
 
-- 🌍 Multi-source: weather, soil, geography data
-- 🖥️ Live Streamlit interface + Groq AI insights
-- 📄 Published: **IRJAEH Vol. 04, Issue 01 (Jan 2026)**
-- 🏆 **Best Paper @ iCREATE 2025**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ AI Product Recommendation System
-[![Status](https://img.shields.io/badge/Internship-Genplus-orange?style=for-the-badge)]()
-[![Team](https://img.shields.io/badge/Team-11_Members-blue?style=for-the-badge)]()
-
-`Python` · `Flask` · `FastAPI` · `Supabase` · `OpenAI`
-
-Enterprise-grade AI recommendation backend built in an Agile 11-member team.
-
-| Metric | Impact |
-|--------|--------|
-| ⚡ Browsing Time | **3 hrs → minutes** |
-| 🏗️ Architecture | **RESTful + LLM** |
-| 🔌 Pipeline | **Google Scraping** |
-| 🗄️ Backend | **Supabase Auth + DB** |
-
-- 🧩 Engineered `suggestions.py` with Pydantic models
-- 🤖 Integrated OpenAI for AI-powered reasoning
-- 📦 Class-based refactoring: `CategoryBuilder`, `RankedListBuilder`
+- 🌍 Inputs: soil N/P/K, pH, temp, humidity, rainfall (+ live weather)
+- 🖥️ Streamlit v2.5 UI — not a notebook-only paper
+- 📄 IRJAEH Vol. 04, Issue 01 (Jan 2026)
+- 🏆 **Best Paper Presentation (UG) @ iCREATE 2025**
 
 </td>
 </tr>
@@ -143,9 +131,9 @@ Enterprise-grade AI recommendation backend built in an Agile 11-member team.
 [![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaymalipatil/Voice-assistant)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)]()
 
-`Python` · `Groq Llama 3.1` · `Tkinter` · `pyttsx3`
+`Python` · `PyAudio` · `SpeechRecognition` · `pyttsx3` · `Groq Llama 3.1` · `Tkinter`
 
-Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with system automation — brightness, volume, battery — all hands-free.
+Local STT → intent → TTS loop. Hands-free desktop control (brightness, volume, battery) plus Groq Llama 3.1 for fast reasoning — offline-friendly speech I/O, cloud LLM only when needed.
 
 </td>
 <td width="50%" valign="top">
@@ -164,26 +152,103 @@ Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with s
 
 ---
 
+## 📄 Research & Publications
+
+**Hybrid Deep Learning Model for Crop Yield Prediction Using CNN and Random Forest**
+
+International Research Journal on Advanced Engineering Hub (**IRJAEH**) · Vol. 04, Issue 01 · Jan 2026 · e-ISSN: 2584-2137
+
+[doi: 10.47392/IRJAEH.2026.0038](https://doi.org/10.47392/IRJAEH.2026.0038) · [Live demo](https://agrisens-ai.streamlit.app/)
+
+🏆 **Best Paper Presentation Award (UG Category)** — iCREATE 2025 · BITM, Karnataka · Dec 2025  
+International Conference on Research, Engineering and Advanced Technologies in Computing and Management
+
+| Accuracy | RMSE | R² |
+|:--------:|:----:|:--:|
+| **94.6%** | **0.069** | **0.94** |
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### ⚡ Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Backend & APIs
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST](https://img.shields.io/badge/REST_APIs-ff2d4b?style=for-the-badge)
+![SOAP](https://img.shields.io/badge/SOAP_APIs-8b0018?style=for-the-badge)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-ff2d4b?style=for-the-badge)
+![RandomForest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
+
+### 📊 Data & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+### ☁️ Databases, Cloud & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 📐 Practices
+`Agile` · `SDLC` · `SOLID` · `Version Control` · `API Development` · `CI/CD`
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,tensorflow,postgres,redis,docker,mysql,supabase,aws,github,vscode&theme=dark&perline=7" />
+</p>
+
+---
+
 ## 🗺️ My Dev Journey
 
 ```text
-2022  ┌─ Started B.E. CSE @ PDA College of Engineering
+2022  ┌─ Started B.E. CSE @ P.D.A. College of Engineering, Kalaburagi
       │
 2023  ├─ Learned Python, C, Java, SQL, HTML/CSS
       │  └─ Built first ML models with scikit-learn
       │
 2024  ├─ Dived into Deep Learning — TensorFlow, Keras
-      │  ├─ Built Voice Assistant with Groq Llama 3.1
+      │  ├─ Built Nova Voice Assistant (local STT/TTS + Groq Llama 3.1)
       │  └─ Started exploring Flask & FastAPI backends
       │
-2025  ├─ 🌾 Built AgriSens — Hybrid CNN + Random Forest (94.6% acc)
-      │  ├─ 🏆 Best Paper Award @ iCREATE 2025 (BITM, Karnataka)
-      │  ├─ ☁️  AWS Academy Cloud Foundations certified
-      │  └─ ☁️  Oracle Cloud Infrastructure AI Foundations certified
+2025  ├─ 🌾 Built AgriSens — Hybrid CNN + Random Forest (94.6% acc · 2,200+ pts)
+      │  ├─ 🏆 Best Paper Presentation Award (UG) @ iCREATE 2025 (BITM, Karnataka)
+      │  ├─ ☁️  Oracle Cloud Infrastructure AI Foundations Associate
+      │  └─ ☁️  AWS Academy Cloud Foundations
       │
 2026  ├─ 📄 Published in IRJAEH Vol. 04, Issue 01 (Jan 2026)
-      │  ├─ 💼 Backend Internship @ Genplus — AI Recommendation System
-      │  └─ 🎯 Seeking AI/ML roles in Bengaluru / Hyderabad / Pune
+      │  ├─ 💼 Backend Intern @ Genplus — RecommendMe (Feb–May, 16 weeks)
+      │  │     FastAPI + React + multi-LLM fallback + Docker/CI
+      │  └─ 🎯 Seeking Backend / AI roles — Bengaluru / Hyderabad / Pune / Remote
       │
  now  └─ Exploring RAG Pipelines, Vector DBs, FastAPI + Docker 🚀
 ```
@@ -194,13 +259,14 @@ Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=8" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&show_icons=true&bg_color=00000000&title_color=ff2d4b&text_color=c9d1d9&icon_color=ff2d4b&border_color=30363d&border_radius=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&layout=compact&bg_color=00000000&title_color=ff2d4b&text_color=c9d1d9&border_color=30363d&border_radius=8" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&background=00000000&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d&border_radius=8" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&background=00000000&border=30363d&ring=ff2d4b&fire=ff2d4b&currStreakLabel=ff2d4b&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d&border_radius=8" width="60%" />
 
 </div>
 
@@ -208,7 +274,24 @@ Real-time desktop voice assistant powered by Groq's ultra-fast Llama 3.1, with s
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&theme=github-compact&hide_border=true&custom_title=Sujay%27s%20Contribution%20Graph&radius=6" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&bg_color=00000000&color=ff6b81&line=ff2d4b&point=ff2d4b&area=true&hide_border=true&custom_title=Sujay's%20Contribution%20Graph" width="100%" />
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|:---|:---|:---:|
+| ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle University | 2025 |
+| ☁️ AWS Academy Cloud Foundations | Amazon Web Services (AWS Academy) | 2025 |
+| 🥇 NPTEL Elite — Understanding Incubation and Entrepreneurship (**96%**) | IIT / IIIT via SWAYAM (Govt. of India) | 2025 |
+| 🔐 NPTEL Elite — Privacy and Security in Online Social Media | IIT / IIIT via SWAYAM (Govt. of India) | 2025 |
+| 💻 Full Stack Development Level 1 (Python) — Grade A | Ethnotech Academy / Skill India / NSDC | 2025 |
+| 🐍 Python Full Course: Beginner to Advanced | GeeksforGeeks | 2024 |
+
+</div>
 
 ---
 
@@ -221,6 +304,7 @@ current_obsessions = {
     "🔍 RAG":         "How to make LLMs actually remember things",
     "⚡ Inference":   "Why Groq is faster than my caffeine intake",
     "🌾 AgriSens":    "Can AI actually help Indian farmers?",
+    "🛍️ RecommendMe": "One LLM outage should never block a recommendation",
     "🏗️ Backend":     "FastAPI + Docker = happiness",
     "📄 Research":    "Turning experiments into publications",
 }
@@ -228,33 +312,16 @@ current_obsessions = {
 
 ---
 
-## 🏅 Certifications
-
-<div align="center">
-
-| 🏅 Certification | 🏢 Issuer | 📅 Year |
-|:---|:---|:---:|
-| ☁️ Oracle Cloud Infrastructure AI Foundations Associate | Oracle University | 2025 |
-| ☁️ AWS Academy Cloud Foundations | Amazon Web Services | 2025 |
-| 🥇 Understanding Incubation and Entrepreneurship — Elite (96%) | NPTEL / IIT via SWAYAM | 2025 |
-| 🔐 Privacy and Security in Online Social Media — Elite | NPTEL / IIT via SWAYAM | 2025 |
-| 💻 Full Stack Development Level 1 (Python) — Grade A | Ethnotech / Skill India / NSDC | 2025 |
-| 🐍 Python Full Course: Beginner to Advanced | GeeksforGeeks | 2024 |
-
-</div>
-
----
-
 ## 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke — refreshes on every visit!" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Joke — refreshes on every visit!" />
 </p>
 
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -263,11 +330,14 @@ current_obsessions = {
 
 <div align="center">
 
-| Platform | Link |
+| | |
 |:---:|:---|
-| 📧 Email | sujayvm2003@gmail.com |
+| 🌐 Portfolio | [sujaymalipatil.github.io/portfolio](https://sujaymalipatil.github.io/portfolio) |
+| 📄 Resume | [Download PDF](https://sujaymalipatil.github.io/portfolio/resume.pdf) |
+| 📧 Email | [sujayvm2003@gmail.com](mailto:sujayvm2003@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/sujay-malipatil-4412a1225](https://linkedin.com/in/sujay-malipatil-4412a1225) |
 | 🐙 GitHub | [github.com/sujaymalipatil](https://github.com/sujaymalipatil) |
+| 📱 Phone | [+91 79756 46236](tel:+917975646236) |
 
 </div>
 
@@ -278,8 +348,8 @@ current_obsessions = {
 </p>
 
 <p align="center">
-  <sub>Made with ❤️ in Bengaluru, Karnataka 🇮🇳</sub>
+  <sub>Made with ❤️ in Kalaburagi · targeting Bengaluru 🇮🇳 · black + red like the <a href="https://sujaymalipatil.github.io/portfolio">portfolio</a></sub>
 </p>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b5,100:00f7ff&height=130&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0018,100:ff2d4b&height=130&section=footer&animation=twinkling" />
