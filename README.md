@@ -259,14 +259,14 @@ International Conference on Research, Engineering and Advanced Technologies in C
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=ff2d4b&amp;text_color=c9d1d9&amp;icon_color=ff2d4b&amp;border_color=30363d&amp;border_radius=8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&amp;layout=compact&amp;bg_color=00000000&amp;title_color=ff2d4b&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=8" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=ff2d4b&amp;text_color=c9d1d9&amp;icon_color=ff2d4b&amp;border_color=30363d&amp;border_radius=8" height="165" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujaymalipatil&amp;layout=compact&amp;bg_color=00000000&amp;title_color=ff2d4b&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=8" height="165" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&amp;background=00000000&amp;border=30363d&amp;ring=ff2d4b&amp;fire=ff2d4b&amp;currStreakLabel=ff2d4b&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;stroke=30363d&amp;border_radius=8" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=sujaymalipatil&amp;background=00000000&amp;border=30363d&amp;ring=ff2d4b&amp;fire=ff2d4b&amp;currStreakLabel=ff2d4b&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;stroke=30363d&amp;border_radius=8" width="60%" alt="GitHub streak" />
 
 </div>
 
