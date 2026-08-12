@@ -1,9 +1,9 @@
 <!-- HEADER WAVE — black + red to match space-portfolio -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d4b,100:8b0018&height=220&section=header&text=Sujay%20Malipatil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20AI%20Developer%20%7C%20FastAPI%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&descAlignY=58&descSize=17&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff2d4b,100:8b0018&amp;height=220&amp;section=header&amp;text=Sujay%20Malipatil&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20and%20AI%20Developer%20%7C%20FastAPI%20%7C%20LLM%20Integration%20%7C%20Published%20Researcher&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2D4B&center=true&vCenter=true&width=780&lines=Building+production-ready+AI+backends+%F0%9F%9A%80;FastAPI+%7C+Flask+%7C+Multi-LLM+Integration;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;RecommendMe+%C2%B7+AgriSens+%C2%B7+Nova;Open+to+Backend+%2F+AI+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=FF2D4B&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Building+production-ready+AI+backends+%F0%9F%9A%80;FastAPI+%7C+Flask+%7C+Multi-LLM+Integration;Published+Researcher+%40+IRJAEH+2026;%F0%9F%8F%86+Best+Paper+Award+%40+iCREATE+2025;RecommendMe+%C2%B7+AgriSens+%C2%B7+Nova;Open+to+Backend+%2F+AI+roles" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 `Intern @ Genplus` · `IRJAEH 2026 paper` · `Best Paper · iCREATE` · `CGPA 8.3` · `Open to Backend / AI roles`
 
-<sub>Available for full-time, internships & contract · Bengaluru / Hyderabad / Pune / Remote</sub>
+<sub>Available for full-time, internships and contract · Bengaluru / Hyderabad / Pune / Remote</sub>
 
 </div>
 
@@ -223,7 +223,7 @@ International Conference on Research, Engineering and Advanced Technologies in C
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,tensorflow,postgres,redis,docker,mysql,supabase,aws,github,vscode&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,tensorflow,postgres,redis,docker,mysql,supabase,aws,github,vscode&amp;theme=dark&amp;perline=7" />
 </p>
 
 ---
@@ -259,14 +259,14 @@ International Conference on Research, Engineering and Advanced Technologies in C
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&custom_title=Developer%20Metrics&show_icons=true&bg_color=00000000&title_color=ff2d4b&text_color=c9d1d9&icon_color=ff2d4b&border_color=30363d&border_radius=8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&layout=compact&bg_color=00000000&title_color=ff2d4b&text_color=c9d1d9&border_color=30363d&border_radius=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujaymalipatil&amp;custom_title=Developer%20Metrics&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=ff2d4b&amp;text_color=c9d1d9&amp;icon_color=ff2d4b&amp;border_color=30363d&amp;border_radius=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaymalipatil&amp;layout=compact&amp;bg_color=00000000&amp;title_color=ff2d4b&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=8" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&background=00000000&border=30363d&ring=ff2d4b&fire=ff2d4b&currStreakLabel=ff2d4b&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d&border_radius=8" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaymalipatil&amp;background=00000000&amp;border=30363d&amp;ring=ff2d4b&amp;fire=ff2d4b&amp;currStreakLabel=ff2d4b&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;stroke=30363d&amp;border_radius=8" width="60%" />
 
 </div>
 
@@ -274,7 +274,7 @@ International Conference on Research, Engineering and Advanced Technologies in C
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&bg_color=00000000&color=ff6b81&line=ff2d4b&point=ff2d4b&area=true&hide_border=true&custom_title=Sujay's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaymalipatil&amp;bg_color=00000000&amp;color=ff6b81&amp;line=ff2d4b&amp;point=ff2d4b&amp;area=true&amp;hide_border=true&amp;custom_title=Sujay%20Contribution%20Graph" width="100%" />
 
 ---
 
@@ -315,13 +315,13 @@ current_obsessions = {
 ## 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Joke — refreshes on every visit!" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&amp;hideBorder" alt="Dev Joke — refreshes on every visit!" />
 </p>
 
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" />
 </p>
 
 ---
@@ -352,4 +352,4 @@ current_obsessions = {
 </p>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0018,100:ff2d4b&height=130&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8b0018,100:ff2d4b&amp;height=130&amp;section=footer&amp;animation=twinkling" />
